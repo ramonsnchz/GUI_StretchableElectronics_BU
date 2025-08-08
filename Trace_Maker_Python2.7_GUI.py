@@ -1,4 +1,3 @@
-# Trace Maker GUI – Python 2.7
 # Author: Ramon Sanchez
 # Last Updated: August 2025
 #
